@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash7jain&label=Profile%20views&color=0e75b6&style=flat" alt="akash7jain" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,Javascript and C++**
+- 🌱 I’m currently learning **HTML,CSS,Javascript,JAVA and C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akash7jain](https://github.com/Akash7jain)
 
